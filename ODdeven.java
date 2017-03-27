@@ -56,3 +56,4 @@ public class oddeven {
 		System.out.println(Array[counter]);
 	}
 }
+// Good job
